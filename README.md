@@ -29,7 +29,3 @@ Lastly access [http://localhost:3000](http://localhost:3000). You can import the
 ## Status
 
 BackEnd ok
-
-## License
-
-This project is under the MIT License. See [LICENSE](/LICENSE.md) file for more details.
