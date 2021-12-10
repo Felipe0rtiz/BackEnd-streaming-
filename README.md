@@ -1,14 +1,5 @@
 <h1 align="center">
-  Plants API
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/github/languages/count/isadfrn/plants-api?style=flat-square" />
-  <img src="https://img.shields.io/github/repo-size/isadfrn/plants-api?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/isadfrn/plants-api?style=flat-square" />
-</p>
-
-<br />
+  Filmes API
 
 ## Technologies and requirements
 
@@ -17,7 +8,7 @@
 
 ## Project
 
-A simple API for register Plants, Users and calculate time for haverst, when flowers will bloom and so on and so forth.
+Projeto Streaming 
 
 ## Run
 
@@ -37,7 +28,7 @@ Lastly access [http://localhost:3000](http://localhost:3000). You can import the
 
 ## Status
 
-In progress 🚧
+BackEnd ok
 
 ## License
 
